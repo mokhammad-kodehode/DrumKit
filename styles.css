@@ -1,0 +1,18 @@
+body {
+    margin:0;
+
+}
+
+#drumkit {
+    width: 600px;
+    height: 500px;
+    display: grid;
+    grid-template-columns:auto auto auto;
+    transform: translate(80%,25%);
+}
+
+button {
+    font-weight: 900;
+    background-position: 115%;
+    background-image: url(Images/291aef933f778bee055ddf9889fcf75a.jpg);
+}
